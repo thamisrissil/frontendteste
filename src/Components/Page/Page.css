@@ -1,0 +1,23 @@
+.page{
+    display: flex;
+    width: 100%;
+  }
+.nav-app {
+
+    position: absolute;
+    left: 16.35%;
+    right: 1.88%;
+    top: 1.53%;
+    bottom: 95.31%;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.135216);
+    border-radius: 8px;
+    padding: 10px 40px;
+    margin: 30px;
+    height: 62px;
+    width :100%;
+}
+.container-nav {
+  display: flex;
+  justify-content: space-between;
+}

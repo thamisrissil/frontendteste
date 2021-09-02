@@ -1,3 +1,4 @@
+import 'Components/Page.css';
 const Page = () => {
 
     return (
@@ -17,24 +18,18 @@ const Page = () => {
             </button>
             <div className="collapse navbar-collapse " id="navbarSupportedContent">
               <ul className="navbar-nav me-auto mb-2 mb-lg-0">
-                <a>
+                
                   <i className="far fa-check-square"></i>
-                </a>
-                <a>
+  
                   <i className="far fa-comment-alt"></i>
-                </a>
-                <a>
+                
                   <i className="far fa-envelope"></i>
-                </a>
-                <a>
+               
                   <i className="far fa-calendar"></i>
-                </a>
-                <a>
+                
                   <i className="far fa-star"></i>
-                </a>
-                <li>
-                  <a className="nav-link" href="#">English</a>
-                </li>
+                
+                  <i className="nav-link" href="#">English</i>
               </ul>
             </div>
             <div className="d-flex align-items-center">

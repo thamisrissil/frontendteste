@@ -1,3 +1,4 @@
+import 'Components/index.css';
 const Filter = () => {
     return(
 <section className ="filter">

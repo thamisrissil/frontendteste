@@ -1,0 +1,30 @@
+.filter {
+    background-color: #fff;
+    display: flex;
+    padding: 10px 70px;
+    position: absolute;
+    left: 16.35%;
+  right: 64.32%;
+  top: 12.5%;
+  bottom: 13.42%;
+  background: #FFFFFF;
+  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.135216);
+  border-radius: 8px;
+  width :371px;
+  height: 1452px;
+  top : 245px;
+  left : 314px;
+  }
+  
+.clear-button{
+    height :56px;
+    position: absolute;
+  left: 16.35%;
+  right: 64.32%;
+  top: 87.76%;
+  bottom: 9.39%;
+  width:371px;
+  background: #696969;
+  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.135216);
+  border-radius: 8px;
+  }

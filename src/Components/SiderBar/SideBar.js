@@ -1,3 +1,4 @@
+import 'Components/SideBar.css';
 const SiderBar = () => {
 
 return (

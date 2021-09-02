@@ -1,8 +1,4 @@
-import './App.css';
-import SiderBar from './SiderBar';
-import Page from './Page';
-import Filter from './Filter';
-import NavSearch from './NavSearch/NavSearch';
+import {Page, SiderBar, NavSearch, Filter} from './Components'
 
 const renderSideBar = <SiderBar />;
 const renderPage = <Page />;
