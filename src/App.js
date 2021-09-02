@@ -1,4 +1,4 @@
-import { Page, SiderBar, NavSearch, Filter } from './Components'
+import { Page, SiderBar, NavSearch, Filter, Card, Pagination} from './Components'
 
 function App() {
 
@@ -9,6 +9,8 @@ function App() {
       <Page />
       <Filter />
       <NavSearch />
+      <Card />
+      <Pagination />
     </div>
 
   );

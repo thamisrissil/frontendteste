@@ -41,10 +41,10 @@ body {
   padding: 0;
 }
 body {
-  background: #F4F5F7;
+  background: #F4f5f7;
 }
 .wrapper {
-  background-color: #F9F9F9;;
+  background-color: #F4f5f7;;
   display: grid;
   grid-template-columns: 1fr auto;
 }
