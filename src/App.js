@@ -1,19 +1,17 @@
-import {Page, SiderBar, NavSearch, Filter} from './Components'
-
-const renderSideBar = <SiderBar />;
-const renderPage = <Page />;
-const renderFilter = <Filter/>;
-const renderNavSearch = <NavSearch/>
-
+import { Page, SiderBar, NavSearch, Filter } from './Components'
 
 function App() {
+
   return (
+
     <div className="wrapper d-flex">
-      {renderSideBar}
-      {renderPage}
-      {renderFilter}
-      {renderNavSearch}
+      <SiderBar />
+      <Page />
+      <Filter />
+      <NavSearch />
     </div>
+
   );
 }
+
 export default App;

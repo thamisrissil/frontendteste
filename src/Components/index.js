@@ -1,4 +1,4 @@
-export {Page} from './Page/index.js'
-export {SiderBar} from './SideBar/index.js'
-export {NavSearch} from './NavSearch/index.js'
-export {Filter} from './Filter/index.js'
+export { Page } from './Page'
+export { SiderBar } from './SiderBar'
+export { NavSearch } from './NavSearch'
+export { Filter } from './Filter'
