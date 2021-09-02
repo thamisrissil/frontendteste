@@ -1,7 +1,8 @@
-import 'Components/index.css';
-const Filter = () => {
+import './style.css';
+
+export const Filter = () => {
     return(
-<section className ="filter">
+      <section className = "filter">
 
   <section>
 
@@ -182,4 +183,3 @@ const Filter = () => {
 
     );
 };
-export default Filter;
