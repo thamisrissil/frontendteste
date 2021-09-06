@@ -8,7 +8,7 @@ export const Page = () => {
 
       <nav className="nav-app">
 
-        <div class="container-nav container">
+        <div className="container-nav container">
           <button
             className="navbar-toggler"
             type="button"
